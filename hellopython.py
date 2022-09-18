@@ -1,1 +1,1 @@
-print('hello colab')
+print('hello python')
